@@ -1,6 +1,7 @@
 .type-04 {
   background: #f0f2f7;
   font-family: "Merriweather";
+  padding-bottom: 50px;
 }
 .type-04 .title {
   text-align: center;
@@ -32,17 +33,18 @@
 .type-04_2 .content1 .m4-limit-services-title {
   text-align: center;
 }
-.type-04_2 .content1 .m4-limit-services-title a {
-  text-decoration: none;
+.type-04_2 .content1 .m4-limit-services-title p {
+  margin: 10px 0 10px 0;
+  font-size: 16px;
+  line-height: 2em;
+  font-weight: 500;
+  text-align: center;
   color: #626570;
-  font: normal 22px/24px Merriweather;
 }
 .type-04_2 .content1 p {
-  padding-top: 15px;
-  padding-bottom: 30px;
   color: #8B8B8B;
   font: normal 16px/24px Merriweather;
-  font-size: 20px;
+  font-size: 14px;
   text-align: center;
 }
 @media (max-width: 480px) {
@@ -56,7 +58,7 @@
     width: 50%;
   }
   .type-1982 .module-4_1 .menu-center .content .text-divider-double {
-    font: normal 30px Libre Baskerville;
+    font: normal 30px Merriweather;
     font-size: 40px;
     margin: 0 auto;
   }

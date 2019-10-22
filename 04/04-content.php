@@ -31,7 +31,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                     <img src="<?php echo $url_path ?>/images/anh1.jpg " alt="reponsive-img" class="size-full">  </a>
                                     </div>
                                     <h4 class="m4-limit-services-title">
-                                        <a href="/" title="Child Friendly">Wedding Make Up</a>
+                                        <p>Wedding Make Up</p>
                                     </h4>
                                     <div>
                                         <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.</p>
@@ -47,7 +47,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                         <img src="<?php echo $url_path ?>/images/anh2.jpg" alt="reponsive-img" class="size-full"> </a>
                                         </div>
                                         <h4 class="m4-limit-services-title">
-                                            <a href="/" title="Child Friendly">Wedding Venues</a>
+                                             <p>Wedding Venues</p>
                                         </h4>
                                         <div>
                                          <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.</p>
@@ -63,7 +63,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                             <img src="<?php echo $url_path ?>/images/anh3.jpg" alt="reponsive-img"  class="size-full"> </a>
                                             </div>
                                             <h4 class="m4-limit-services-title">
-                                                <a href="/" title="Child Friendly">Wedding Decoration</a>
+                                                 <p>Wedding Decoration</p>
                                             </h4>
                                             <div>
                                          <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.</p>
@@ -80,7 +80,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                                 </a>
                                             </div>
                                             <h4 class="m4-limit-services-title">
-                                                <a href="/" title="Child Friendly">Wedding Venues</a>
+                                                 <p>Wedding Cars</p>
                                             </h4>
                                             <div>
                                             <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.</p>
