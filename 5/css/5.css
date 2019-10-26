@@ -1,0 +1,49 @@
+.type-5 {
+  background: #d1a17a;
+}
+.type-5 img {
+  width: 337px;
+}
+.type-5 .content_us h4 {
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+  font-weight: 400;
+  color: #ffffff;
+  padding: 20px 0px;
+}
+.type-5 .contact_us {
+  line-height: 5.428571;
+}
+.type-5 .contact_us a {
+  text-decoration: none;
+  border: solid 2px #ffffff;
+  background: none;
+  border-radius: 30px;
+  padding: 7px 30px 7px 30px;
+  color: #fff;
+  font-family: "Merriweather";
+  font-weight: bold;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+.type-5 .swiper-container {
+  width: 100%;
+  height: 100%;
+}
+.type-5 .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}

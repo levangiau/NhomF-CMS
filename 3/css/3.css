@@ -27,6 +27,11 @@
   font-size: 13px;
   text-transform: uppercase;
 }
+.type-3 .bg .noidung a.btn-border:hover {
+  transition: 0.5s all;
+  background: #ffffff;
+  color: black;
+}
 .type-3 .bg .bg2 {
   padding: 60px;
   background-color: rgba(98,100,112,0.7);
