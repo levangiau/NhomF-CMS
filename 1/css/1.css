@@ -1,0 +1,82 @@
+.type-1 {
+  position: relative;
+}
+.type-1 .scroll {
+  background: #000;
+  position: absolute;
+  width: 100%;
+  height: 75px;
+  top: 30px;
+}
+.type-1 .scroll .con {
+  background-size: cover;
+}
+.type-1 .scroll .con .bao .cot {
+  background-size: cover;
+}
+.type-1 .scroll .con .bao .cot #logo {
+  float: left;
+}
+.type-1 .scroll .con .bao .cot #logo h1 a {
+  text-decoration: none;
+  color: #fff;
+}
+.type-1 .scroll .con .bao .cot #logo h1 a .logo2 {
+  display: none;
+}
+.type-1 .scroll .con .bao .cot nav {
+  float: right;
+  line-height: 2;
+  font-size: 16px;
+}
+.type-1 .scroll .con .bao .cot nav .nav {
+  float: right;
+  font-weight: 600;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+.type-1 .scroll .con .bao .cot nav .nav .menu {
+  float: left;
+  position: relative;
+  transition: .2s ease;
+}
+.type-1 .scroll .con .bao .cot nav .nav .menu a {
+  text-decoration: none;
+  color: #fff;
+  line-height: 35px;
+  text-align: center;
+  padding: 18px 15px;
+}
+.type-1 .scroll .con .bao .cot nav .nav .menu a:hover {
+  color: #d1a17a;
+  background-color: unset;
+}
+.type-1 .scroll .con .bao .cot nav .nav .menu .sub-menu {
+  position: absolute;
+  z-index: 10;
+  margin-top: 30px;
+  width: 200px;
+  padding-left: 0px;
+  visibility: hidden;
+  opacity: 0;
+  top: 70px;
+  transition: .2s ease;
+}
+.type-1 .scroll .con .bao .cot nav .nav .menu .sub-menu .menu-sub {
+  list-style: none;
+  border-bottom: 1px solid #676a75;
+  position: relative;
+  transition: .2s ease;
+}
+.type-1 .scroll .con .bao .cot nav .nav .menu .sub-menu .menu-sub a {
+  background: #626570;
+  color: #ccc;
+  padding: 9px 41px 8.5px 28px;
+  text-align: left;
+  width: 100%;
+}
+.type-1 .scroll .con .bao .cot nav .nav .so1:hover .sub-menu {
+  visibility: visible;
+  margin-top: 0px;
+  opacity: 1;
+}
