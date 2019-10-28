@@ -24,7 +24,7 @@ $less->compileFile('less/1.less', 'css/1.css');
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <script src="js/jquery-2.1.4.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
-        
+        <script src="js/1.js"></script>
     </head>
     <body>
         <?php include '../1/1-content.php'; ?>

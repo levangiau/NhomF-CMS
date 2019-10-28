@@ -10,20 +10,20 @@ if (!class_exists('lessc')) {
 	require_once($dir_block . '/libs/lessc.inc.php');
 }
 $less = new lessc;
-$less->compileFile('less/04.less', 'css/04.css');
+$less->compileFile('less/4.less', 'css/4.css');
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>04</title>
+	<title>4</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-	<link href="<?php echo $url_path ?>/css/04.css" rel="stylesheet" type="text/css"/>
+	<link href="<?php echo $url_path ?>/css/4.css" rel="stylesheet" type="text/css"/>
 	<link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-	<link href="css/04-fonts.css" rel="stylesheet" type="text/css"/>
+	<link href="css/4-fonts.css" rel="stylesheet" type="text/css"/>
 </head> 
 <body> 
-	<?php include '../04/04-content.php'; ?>
+	<?php include '../4/4-content.php'; ?>
 </body>
 </html>

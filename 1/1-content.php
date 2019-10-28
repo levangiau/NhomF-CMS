@@ -40,4 +40,6 @@ $url_path = str_replace('\\', '/', $url_path);
 			</div>
 		</div>
 	</header>
+	<img src="image/hinhnen.jpg">
+
 </div>
