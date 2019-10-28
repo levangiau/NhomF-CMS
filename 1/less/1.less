@@ -2,7 +2,7 @@
 	position: relative;
 
 	.scroll{
-		background: #000;
+		background-color:#0000;
 		position: absolute;
 		width: 100%;
 		height: 75px;
@@ -18,6 +18,9 @@
 							a{
 								text-decoration: none;
 								color: #fff;
+								.logo1{
+									display: inline-block;
+								}
 								.logo2{
 									display: none;
 								}
@@ -58,6 +61,7 @@
 									opacity: 0;
 									top:70px;
 									transition: .2s ease;
+									font-size: 13px;
 									.menu-sub{
 										list-style: none;
 										border-bottom: 1px solid #676a75;
@@ -66,9 +70,13 @@
 										a{
 											background: #626570;
 											color: #ccc;
-											padding: 9px 41px 8.5px 28px;
+											padding: 10px 63px 10px 31px;
 											text-align: left;
 											width: 100%;
+										}
+										a:hover{
+											background: #d1a17a;
+											color: #000;
 										}
 									}
 								}
@@ -84,5 +92,45 @@
 				}
 			}
 		}
+	}
+	.hh{
+		.con{
+			.bao{
+				.cot{
+					#logo{
+						h1{
+							a{
+								
+								.logo1{
+									display: none;
+								}
+								.logo2{
+									display: inline-block;
+								}
+							}
+						}
+
+					}
+					nav{
+						.nav{
+							.menu{
+								a{
+									color: #626570;
+								}
+								a:hover{
+									color:#62657066;
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+		background: #eaecf0;
+		top:0;
+		position: fixed;
+		height: 70px;
+		transition: .8s;
+		
 	}
 }
