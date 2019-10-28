@@ -3,37 +3,20 @@
   font-family: "Merriweather";
   padding-bottom: 50px;
 }
-.type-04 .title {
+.type-04 .type-04_2 {
   text-align: center;
-  color: #626570;
-  padding-top: 50px;
+  margin-top: 80px;
 }
-.type-04 .title h2 {
-  font-size: 34px;
-}
-.type-04 .title .small-border {
-  height: 2px;
-  width: 120px;
-  background: #d1a17a;
-  display: block;
-  margin: 0 auto;
-  margin-top: 30px;
-  margin-bottom: 30px;
-}
-.type-04_2 {
-  text-align: center;
-  margin-top: 53px;
-}
-.type-04_2 .content1 img {
+.type-04 .type-04_2 .content1 img {
   max-width: 62%;
   transition: border-radius 0.4s ease;
   border-radius: 100%;
   margin-bottom: 35px;
 }
-.type-04_2 .content1 .m4-limit-services-title {
+.type-04 .type-04_2 .content1 .m4-limit-services-title {
   text-align: center;
 }
-.type-04_2 .content1 .m4-limit-services-title p {
+.type-04 .type-04_2 .content1 .m4-limit-services-title p {
   margin: 10px 0 10px 0;
   font-size: 16px;
   line-height: 2em;
@@ -41,11 +24,32 @@
   text-align: center;
   color: #626570;
 }
-.type-04_2 .content1 p {
+.type-04 .type-04_2 .content1 p {
   color: #8B8B8B;
   font: normal 16px/24px Merriweather;
   font-size: 14px;
   text-align: center;
+}
+.type-04 .type-06 {
+  background: #626570;
+  color: #EEEEEE;
+  font-family: "Merriweather";
+  text-align: center;
+}
+.type-04 .type-06 .logo {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.type-04 .type-06 .cop {
+  font-size: 16px;
+  font-weight: 400;
+  background: #555 !important;
+  padding-top: 35px;
+  padding-bottom: 20px;
+  opacity: 0.5;
+}
+.type-04 .service-content {
+  padding-bottom: 72px;
 }
 @media (max-width: 480px) {
   .type-1982 .type-1982_2 .content1 

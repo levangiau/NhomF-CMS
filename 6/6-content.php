@@ -12,7 +12,7 @@ $url_path = str_replace('\\', '/', $url_path);
             <div class="col-md-12">
                 <div class="logotop">
                     <div class="logo">
-                        <a href="#"><img src="../06/images/logo.png" alt="1"></a>                        
+                        <a href="#"><img src="../6/images/logo.png" alt="1"></a>                        
                     </div>                                    
                         <div class="cop">
                             <div class="container">

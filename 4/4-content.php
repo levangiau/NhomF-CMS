@@ -33,7 +33,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                     <h4 class="m4-limit-services-title">
                                         <p>Wedding Make Up</p>
                                     </h4>
-                                    <div>
+                                     <div class="service-content">
                                         <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.</p>
                                     </div>
                                 </div>
@@ -49,7 +49,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                         <h4 class="m4-limit-services-title">
                                              <p>Wedding Venues</p>
                                         </h4>
-                                        <div>
+                                         <div class="service-content">
                                          <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.</p>
                                         </div>
                                     </div>
@@ -65,7 +65,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                             <h4 class="m4-limit-services-title">
                                                  <p>Wedding Decoration</p>
                                             </h4>
-                                            <div>
+                                             <div class="service-content">
                                          <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.</p>
                                             </div>
                                         </div>
@@ -82,7 +82,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                             <h4 class="m4-limit-services-title">
                                                  <p>Wedding Cars</p>
                                             </h4>
-                                            <div>
+                                             <div class="service-content">
                                             <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.</p>
                                             </div>
                                         </div>
