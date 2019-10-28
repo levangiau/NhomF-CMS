@@ -1,0 +1,46 @@
+.type-9 {
+  font-family: "Merriweather";
+  font-size: 14px;
+  font-weight: 400;
+  color: #ddd;
+  line-height: 1.8em;
+  padding: 0;
+}
+.type-9 input[type=text] {
+  padding: 10px;
+  margin-bottom: 20px;
+  color: #fff;
+  border: solid 1px rgba(0,0,0,0.3);
+  background: none;
+  border-radius: 0 !important;
+  height: auto;
+}
+.type-9 .btn:hover,
+.type-9 .btn:focus {
+  color: #333;
+  text-decoration: none;
+}
+.type-9 .btn-custom {
+  background-color: #d1a17a;
+}
+.type-9 .contact_form {
+  margin-top: 20px;
+}
+.type-9 .type-06 {
+  background: #626570;
+  color: #EEEEEE;
+  font-family: "Merriweather";
+  text-align: center;
+}
+.type-9 .type-06 .logo {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.type-9 .type-06 .cop {
+  font-size: 16px;
+  font-weight: 400;
+  background: #555 !important;
+  padding-top: 35px;
+  padding-bottom: 20px;
+  opacity: 0.5;
+}
