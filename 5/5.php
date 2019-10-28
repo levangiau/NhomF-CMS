@@ -17,22 +17,19 @@ $less->compileFile('less/5.less', 'css/5.css');
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>5</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/swiper.min.css">
     <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+    <link href="css/swiper.min.css" rel="stylesheet" type="text/css"/>
     <link href="https://fonts.googleapis.com/css?family=Merriweather:500,500i,400,400i,700,700i&display=swap" rel="stylesheet"> 
     <link href="css/5.css" rel="stylesheet" type="text/css"/>
     <script src="js/jquery.min.js"></script>
+    <script src="js/swiper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-     <script src="js/swiper.min.js"></script>
 
 </head>
 <body>
     <?php include '../5/5-content.php'; ?>
-     <script src="js/5.js"></script>
-
+    <script src="js/5.js"></script>
 </body>
 </html>
