@@ -20,17 +20,50 @@ $url_path = str_replace('\\', '/', $url_path);
 				</div>
 			</div>
 		</div>
-
 	</div>
-
-			 <div class="swiper-container">
-    <div class="swiper-wrapper">
-      <div class="swiper-slide"></div>
-      <div class="swiper-slide"><img src="images/1.png" ></div>
-       <div class="swiper-slide"><img src="images/1.png" ></div>
-      <div class="swiper-slide"><img src="images/1.png" ></div>
-       <div class="swiper-slide"><img src="images/1.png" ></div>
-       <div class="swiper-slide"><img src="images/1.png" ></div>
-        <div class="swiper-slide"><img src="images/1.png" ></div>
-
+	<!-- Swiper -->
+	<div class="swiper-container">
+		<div class="swiper-wrapper">
+			<div class="swiper-slide">
+				<img id="my_image" src="images/1.png">
+				<span class="overlay-v">
+					<i></i>
+				</span>
+			</div>
+			<div class="swiper-slide">
+				<img id="my_image" src="images/2.png">
+				<span class="overlay-v">
+					<i></i>
+				</span>
+			</div>
+			<div class="swiper-slide">
+				<img id="my_image" src="images/3.png">
+				<span class="overlay-v">
+					<i></i>
+				</span>
+			</div>
+			<div class="swiper-slide">
+				<img id="my_image" src="images/4.png">
+				<span class="overlay-v">
+					<i></i>
+				</span>
+			</div>
+			<div class="swiper-slide">
+				<img id="my_image" src="images/5.png">
+				<span class="overlay-v">
+					<i></i>
+				</span>
+			</div>
+			<div class="swiper-slide">
+				<img id="my_image" src="images/6.png">
+				<span class="overlay-v">
+					<i></i>
+				</span>
+			</div>
+		</div>
+	</div>
+	<div class="show_img">
+		<img class="img_none" src="images/1.png">
+		<span class="remove"><i class="fa fa-times" aria-hidden="true"></i></span>
+	</div>
 </div>
