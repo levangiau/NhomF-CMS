@@ -11,35 +11,50 @@ $url_path = str_replace('\\', '/', $url_path);
 		<div class="container con">
 			<div class="row bao">
 				<div class="col-md-12 cot">
-					<div id="logo">
-						<h1>
-							<a href="#">
-								<img src="image/logo1.png" alt="" class="logo1">
-							</a>
-							<a href="#">
-								<img src="image/logo2.png" alt="" class="logo2">
-							</a>
-						</h1>
-					</div>
-					<nav>
-						<ul class="nav">
-							<li class="menu so1">
-								<a href="#">Home</a>
-								<ul class="sub-menu">
-									<li class="menu-sub"><a href="#">Wedding Planner</a></li>
-									<li class="menu-sub"><a href="#">Wedding Planner</a></li>
+					
+
+
+					<nav class="navbar navbar-default nav" role="navigation">
+						<div class="container-fluid">
+							<!-- Brand and toggle get grouped for better mobile display -->
+							<div class="navbar-header">
+								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+									<span class="sr-only">Toggle navigation</span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</button>
+								<div id="logo">
+									<h1>
+										<a href="#">
+											<img src="../1/image/logo1.png" alt="" class="logo1">
+										</a>
+										<a href="#">
+											<img src="../1/image/logo2.png" alt="" class="logo2">
+										</a>
+									</h1>
+								</div>
+							</div>
+
+							<!-- Collect the nav links, forms, and other content for toggling -->
+							<div class="collapse navbar-collapse navbar-ex1-collapse">
+								<ul class="nav navbar-nav navbar-right">
+									<li class="item">
+										<a href="#">Home</a>
+										<ul class="sub-menu">
+											<li class="sub-item"><a href="#">Wedding Planer</a></li>
+										</ul>
+									</li>
+									<li><a href="#">Abouts</a></li>
+									<li><a href="#">Services</a></li>
+									<li><a href="#">Contact</a></li>
 								</ul>
-							</li>
-							<li class="menu"><a href="#">Abouts</a></li>
-							<li class="menu"><a href="#">Services</a></li>
-							<li class="menu"><a href="#">Packages</a></li>
-							<li class="menu"><a href="#">Blog</a></li>
-						</ul>
+							</div><!-- /.navbar-collapse -->
+						</div>
 					</nav>
 				</div>
 			</div>
 		</div>
 	</header>
 	<img src="image/hinhnen.jpg">
-
 </div>
