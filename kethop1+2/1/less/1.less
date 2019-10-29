@@ -1,0 +1,138 @@
+.type-1{
+	position: relative;
+
+	.scroll{
+		background-color:#0000;
+		position: absolute;
+		width: 100%;
+		height: 75px;
+		top:30px;
+		z-index: 99;
+		.con{
+			background-size: cover;
+			.bao{
+				.cot{
+					background-size: cover;
+					#logo{
+						float: left;
+						h1{
+							margin-left: 15px;
+							a{
+								text-decoration: none;
+								color: #fff;
+								.logo1{
+									display: inline-block;
+								}
+								.logo2{
+									display: none;
+								}
+							}
+						}
+					}
+					nav{
+						float: right;
+						line-height: 2;
+						font-size: 16px;
+						.nav{
+							float: right;
+							font-weight: 600;
+							margin-right: 20px;
+							margin-bottom: 10px;
+							.menu{
+								float: left;
+								position: relative;
+								transition: .2s ease;
+								a{
+									text-decoration: none;
+									color:#fff;
+									line-height: 35px;
+									text-align: center;
+									padding: 18px 15px;
+								}
+								a:hover{
+									color:#d1a17a;
+									background-color:unset;
+								}
+								.sub-menu{
+									position: absolute;
+									z-index: 10;
+									margin-top: 30px;
+									width: 200px;
+									padding-left: 0px;
+									visibility: hidden;
+									opacity: 0;
+									top:70px;
+									transition: .2s ease;
+									font-size: 13px;
+									.menu-sub{
+										list-style: none;
+										border-bottom: 1px solid #676a75;
+										position: relative;
+										transition: .2s ease;
+										a{
+											background: #626570;
+											color: #ccc;
+											padding: 10px 63px 10px 31px;
+											text-align: left;
+											width: 100%;
+										}
+										a:hover{
+											background: #d1a17a;
+											color: #000;
+										}
+									}
+								}
+							}
+							
+							.so1:hover .sub-menu{
+								visibility: visible;
+								margin-top: 0px;
+								opacity: 1;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.hh{
+		.con{
+			.bao{
+				.cot{
+					#logo{
+						h1{
+							a{
+								
+								.logo1{
+									display: none;
+								}
+								.logo2{
+									display: inline-block;
+								}
+							}
+						}
+
+					}
+					nav{
+						.nav{
+							.menu{
+								a{
+									color: #626570;
+								}
+								a:hover{
+									color:#62657066;
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+		background: #eaecf0;
+		top:0;
+		position: fixed;
+		height: 70px;
+		transition: .8s;
+		
+	}
+}
