@@ -35,14 +35,16 @@ $url_path = str_replace('\\', '/', $url_path);
 									</h1>
 								</div>
 							</div>
-
 							<!-- Collect the nav links, forms, and other content for toggling -->
 							<div class="collapse navbar-collapse navbar-ex1-collapse">
 								<ul class="nav navbar-nav navbar-right">
-									<li class="item">
-										<a href="#">Home</a>
-										<ul class="sub-menu">
-											<li class="sub-item"><a href="#">Wedding Planer</a></li>
+									<li class="dropdown item">
+										<a href="#" class="dropdown-toggle" data-toggle="collapse">Home </a>
+										<!--  -->
+										<span class="up"><i class="fa fa-angle-up" aria-hidden="true"></i></span>
+										<span class="down"><i class="fa fa-angle-down" aria-hidden="true"></i></span>
+										<ul class="dropdown-menu aaa">
+											<li class="aaa1"><a href="#" class="aaa11">Wedding Planer</a></li>
 										</ul>
 									</li>
 									<li><a href="#">Abouts</a></li>
