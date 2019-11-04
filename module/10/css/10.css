@@ -3,6 +3,32 @@
   font-family: "Merriweather";
   padding-bottom: 50px;
 }
+.type-04 .so2 {
+  padding: 0;
+  background-size: cover;
+  background-image: url(../images/heae.jpg) !important;
+  width: 100%;
+  height: 100%;
+}
+.type-04 .so2 .wrapper {
+  padding: 180px 0 40px 0;
+}
+.type-04 .so2 .wrapper .container .row .col-md-12 {
+  text-align: center;
+}
+.type-04 .so2 .wrapper .container .row .col-md-12 h2 {
+  font-size: 48px;
+  color: #fff;
+}
+.type-04 .so2 .wrapper .container .row .col-md-12 .gach {
+  background-color: #d1a17a;
+  height: 2px;
+  width: 133px;
+  margin: 20px auto;
+}
+.type-04 .so2 .wrapper .container .row .col-md-12 .s-space {
+  height: 40px;
+}
 .type-04 .type-04_2 {
   text-align: center;
   margin-top: 80px;

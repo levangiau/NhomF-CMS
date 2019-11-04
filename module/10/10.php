@@ -10,20 +10,20 @@ if (!class_exists('lessc')) {
 	require_once($dir_block . '/libs/lessc.inc.php');
 }
 $less = new lessc;
-$less->compileFile('less/7.less', 'css/7.css');
+$less->compileFile('less/10.less', 'css/10.css');
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>7</title>
+	<title>10</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-	<link href="<?php echo $url_path ?>/css/7.css" rel="stylesheet" type="text/css"/>
+	<link href="<?php echo $url_path ?>/css/10.css" rel="stylesheet" type="text/css"/>
 	<link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-	<link href="css/7-fonts.css" rel="stylesheet" type="text/css"/>
+	<link href="css/10-fonts.css" rel="stylesheet" type="text/css"/>
 </head> 
 <body> 
-	<?php include '../07/7-content.php'; ?>
+	<?php include '../10/10-content.php'; ?>
 </body>
 </html>

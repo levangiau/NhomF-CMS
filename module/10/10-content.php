@@ -9,6 +9,19 @@ $url_path = str_replace('\\', '/', $url_path);
 ?>
 
 <div class="type-04">
+  <section class="so2 paralax">
+    <div class="wrapper">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h2>Service</h2>
+            <div class="gach"></div>
+            <div class="s-space"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
     <div class="container">
      <!--SERVICES-->
      <div class="type-04_2">
@@ -87,7 +100,7 @@ $url_path = str_replace('\\', '/', $url_path);
         <div class="col-md-12">
             <div class="logotop">
                 <div class="logo">
-                    <a href="#"><img src="../07/images/logo.png" alt="1"></a>                        
+                    <a href="#"><img src="../10/images/logo.png" alt="1"></a>                        
                 </div>                                    
                 <div class="cop">
                     <div class="container">
