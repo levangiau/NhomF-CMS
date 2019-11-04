@@ -10,7 +10,7 @@ if (!class_exists('lessc')) {
     require_once($dir_block . '/libs/lessc.inc.php');
 }
 $less = new lessc;
-$less->compileFile('less/7.less', 'css/7.css');
+$less->compileFile('less/8.less', 'css/8.css');
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -19,13 +19,12 @@ $less->compileFile('less/7.less', 'css/7.css');
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>8</title>
         <link href="https://fonts.googleapis.com/css?family=Allura&display=swap" rel="stylesheet">
-        <link rel="stylesheet" type="text/css" href="css/7.css">
+        <link rel="stylesheet" type="text/css" href="css/8.css">
         <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <script src="js/jquery-2.1.4.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
+       
     </head>
     <body>
-        <?php include '../7/7-content.php'; ?>
+        <?php include '../8/8-content.php'; ?>
     </body>
 </html>

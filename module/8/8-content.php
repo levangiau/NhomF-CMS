@@ -13,7 +13,7 @@ $url_path = str_replace('\\', '/', $url_path);
 				<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 lon">
 					<div class="lon1">
 						<div class="chuaanh">
-							<img src="image/1-1.jpg">
+							<img src="image/1-1.jpg" alt="">
 						</div>
 						<h3>Ben Sheridan </h3>
 						<span class="chucvu">Founder & CEO</span>
@@ -25,7 +25,8 @@ $url_path = str_replace('\\', '/', $url_path);
 				<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 lon">
 					<div class="lon1">
 						<div class="chuaanh">
-							<img src="image/1-2.jpg">
+							<img src="image/1-2.jpg" a
+							>
 						</div>
 						<h3>Sophie Lana</h3>
 						<span class="chucvu">Founder & CEO</span>
@@ -37,7 +38,7 @@ $url_path = str_replace('\\', '/', $url_path);
 				<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 lon">
 					<div class="lon1">
 						<div class="chuaanh">
-							<img src="image/1-3.jpg">
+							<img src="image/1-3.jpg" alt="">
 						</div>
 						<h3>James Hoult </h3>
 						<span class="chucvu">Events Manager</span>
@@ -49,7 +50,7 @@ $url_path = str_replace('\\', '/', $url_path);
 				<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 lon">
 					<div class="lon1">
 						<div class="chuaanh">
-							<img src="image/1-4.jpg">
+							<img src="image/1-4.jpg" alt="">
 						</div>
 						<h3>Oscar Helman </h3>
 						<span class="chucvu">Events Manager</span>
