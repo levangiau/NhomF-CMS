@@ -7,13 +7,11 @@ $url_path = $url_host . $matches[1][0];
 $url_path = str_replace('\\', '/', $url_path);
 ?>
 <div class="type-1">
+	<img src="image/hinhnen.jpg">
 	<header class="scroll">
 		<div class="container con">
 			<div class="row bao">
 				<div class="col-md-12 cot">
-					
-
-
 					<nav class="navbar navbar-default nav" role="navigation">
 						<div class="container-fluid">
 							<!-- Brand and toggle get grouped for better mobile display -->
@@ -38,15 +36,16 @@ $url_path = str_replace('\\', '/', $url_path);
 							<!-- Collect the nav links, forms, and other content for toggling -->
 							<div class="collapse navbar-collapse navbar-ex1-collapse">
 								<ul class="nav navbar-nav navbar-right">
-									<li class="dropdown item">
-										<a href="#" class="dropdown-toggle" data-toggle="collapse">Home </a>
+									<li class="item">
+										<a href="#" class="item1">Home 
+									<span class="up"><i class="fa fa-angle-up" aria-hidden="true"></i></span>
+									<span class="down"><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
 										<!--  -->
-										<span class="up"><i class="fa fa-angle-up" aria-hidden="true"></i></span>
-										<span class="down"><i class="fa fa-angle-down" aria-hidden="true"></i></span>
-										<ul class="dropdown-menu aaa">
+										<ul class="aaa">
 											<li class="aaa1"><a href="#" class="aaa11">Wedding Planer</a></li>
 										</ul>
 									</li>
+									
 									<li><a href="#">Abouts</a></li>
 									<li><a href="#">Services</a></li>
 									<li><a href="#">Contact</a></li>
@@ -58,5 +57,6 @@ $url_path = str_replace('\\', '/', $url_path);
 			</div>
 		</div>
 	</header>
-	<img src="image/hinhnen.jpg">
+	<!-- nav -->
+
 </div>
