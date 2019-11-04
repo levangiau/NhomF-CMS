@@ -22,6 +22,7 @@ $less->compileFile('less/9.less', 'css/9.css');
 	<link href="<?php echo $url_path ?>/css/9.css" rel="stylesheet" type="text/css"/>
 	<link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
 	<link href="css/9-fonts.css" rel="stylesheet" type="text/css"/>
+	<link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,700&display=swap" rel="stylesheet">
 </head> 
 <body> 
 	<?php include '../09/9-content.php'; ?>
