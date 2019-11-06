@@ -6,7 +6,20 @@ preg_match_all($pattern_uri, __DIR__, $matches);
 $url_path = $url_host . $matches[1][0];
 $url_path = str_replace('\\', '/', $url_path);
 ?>
-<div class="type-8">
+<div class="type-7">
+	<section class="so2 paralax">
+		<div class="wrapper">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h2>About</h2>
+						<div class="gach"></div>
+						<div class="s-space"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 	<section class="so3">
 		<div class="container">
 			<div class="row">

@@ -1,37 +1,63 @@
-.type-8 .so3 {
+.type-7 .so2 {
+  padding: 0;
+  background-size: cover;
+  background-image: url(../image/heae.jpg);
+  width: 100%;
+  height: 100%;
+}
+.type-7 .so2 .wrapper {
+  padding: 180px 0 40px 0;
+}
+.type-7 .so2 .wrapper .container .row .col-md-12 {
+  text-align: center;
+}
+.type-7 .so2 .wrapper .container .row .col-md-12 h2 {
+  font-size: 48px;
+  color: #fff;
+}
+.type-7 .so2 .wrapper .container .row .col-md-12 .gach {
+  background-color: #d1a17a;
+  height: 2px;
+  width: 133px;
+  margin: 20px auto;
+}
+.type-7 .so2 .wrapper .container .row .col-md-12 .s-space {
+  height: 40px;
+}
+.type-7 .so3 {
   background-color: #f0f2f7;
 }
-.type-8 .so3 .container .row .class1 {
+.type-7 .so3 .container .row .class1 {
   background-size: cover;
   margin-left: -25px;
   padding: 0;
 }
-.type-8 .so3 .container .row .class1 .iner {
+.type-7 .so3 .container .row .class1 .iner {
   background-size: cover;
   background-image: url(../image/bg-1.jpg);
   width: 90%;
   height: 100%;
   padding: 210px 0;
 }
-.type-8 .so3 .container .row .class2 .iner {
+.type-7 .so3 .container .row .class2 .iner {
   background-size: cover;
   width: 100%;
   padding: 0 100px;
 }
-.type-8 .so3 .container .row .class2 .iner .tx-wraper {
+.type-7 .so3 .container .row .class2 .iner .tx-wraper {
   color: #838897;
 }
-.type-8 .so3 .container .row .class2 .iner .tx-wraper .col {
+.type-7 .so3 .container .row .class2 .iner .tx-wraper .col {
   padding: 65px 0;
 }
-.type-8 .so3 .container .row .class2 .iner .tx-wraper .col .noidung .h2 {
+.type-7 .so3 .container .row .class2 .iner .tx-wraper .col .noidung .h2 {
   font-size: 30px;
   color: #626570;
 }
-.type-8 .so3 .container .row .class2 .iner .tx-wraper .col .noidung p {
+.type-7 .so3 .container .row .class2 .iner .tx-wraper .col .noidung p {
   font-size: 16px;
 }
-.type-8 .so3 .container .row .class2 .iner .tx-wraper .col .noidung button {
+.type-7 .so3 .container .row .class2 .iner .tx-wraper .col .noidung button {
   color: #fff;
   background: #d1a17a;
   text-transform: uppercase;
@@ -41,19 +67,19 @@
   opacity: 0.8;
   margin: 10px 0;
 }
-.type-8 .so3 .container .row .class2 .iner .tx-wraper .col .noidung button:hover {
+.type-7 .so3 .container .row .class2 .iner .tx-wraper .col .noidung button:hover {
   background: #d1a17ab3;
   border: 1px solid #d1a17ab3;
 }
-.type-8 .so4 {
+.type-7 .so4 {
   background-color: #f0f2f7;
 }
-.type-8 .so4 .container .row .class1 {
+.type-7 .so4 .container .row .class1 {
   background-size: cover;
   margin-left: 0;
   padding: 0;
 }
-.type-8 .so4 .container .row .class1 .iner {
+.type-7 .so4 .container .row .class1 .iner {
   background-size: cover;
   background-image: url(../image/bg-2.jpg);
   width: 90%;
@@ -61,30 +87,30 @@
   padding: 210px 0;
   margin-left: 87px;
 }
-.type-8 .so4 .container .row .class2 {
+.type-7 .so4 .container .row .class2 {
   margin-right: 25px;
   margin-left: -25px;
 }
-.type-8 .so4 .container .row .class2 .iner {
+.type-7 .so4 .container .row .class2 .iner {
   background-size: cover;
   width: 100%;
   padding-left: 175px;
   padding-right: 50px;
 }
-.type-8 .so4 .container .row .class2 .iner .tx-wraper {
+.type-7 .so4 .container .row .class2 .iner .tx-wraper {
   color: #838897;
 }
-.type-8 .so4 .container .row .class2 .iner .tx-wraper .col {
+.type-7 .so4 .container .row .class2 .iner .tx-wraper .col {
   padding: 54px 0;
 }
-.type-8 .so4 .container .row .class2 .iner .tx-wraper .col .noidung .h2 {
+.type-7 .so4 .container .row .class2 .iner .tx-wraper .col .noidung .h2 {
   font-size: 30px;
   color: #626570;
 }
-.type-8 .so4 .container .row .class2 .iner .tx-wraper .col .noidung p {
+.type-7 .so4 .container .row .class2 .iner .tx-wraper .col .noidung p {
   font-size: 16px;
 }
-.type-8 .so4 .container .row .class2 .iner .tx-wraper .col .noidung button {
+.type-7 .so4 .container .row .class2 .iner .tx-wraper .col .noidung button {
   color: #fff;
   background: #d1a17a;
   text-transform: uppercase;
@@ -94,116 +120,116 @@
   opacity: 0.8;
   margin: 10px 0;
 }
-.type-8 .so4 .container .row .class2 .iner .tx-wraper .col .noidung button:hover {
+.type-7 .so4 .container .row .class2 .iner .tx-wraper .col .noidung button:hover {
   background: #d1a17ab3;
   border: 1px solid #d1a17ab3;
 }
 @media (max-width: 900px) {
-  .type-8 .so3 .container .row .class1 .iner {
+  .type-7 .so3 .container .row .class1 .iner {
     padding: 0;
   }
-  .type-8 .so3 .container .row .class2 .iner {
+  .type-7 .so3 .container .row .class2 .iner {
     padding: 0 18px;
   }
-  .type-8 .so3 .container .row .class2 .iner .tx-wraper .col .noidung .h2 {
+  .type-7 .so3 .container .row .class2 .iner .tx-wraper .col .noidung .h2 {
     font-size: 19px;
   }
-  .type-8 .so3 .container .row .class2 .iner .tx-wraper .col .noidung p {
+  .type-7 .so3 .container .row .class2 .iner .tx-wraper .col .noidung p {
     font-size: 14px;
   }
-  .type-8 .so3 .container .row .class2 .iner .tx-wraper .col .noidung button {
+  .type-7 .so3 .container .row .class2 .iner .tx-wraper .col .noidung button {
     padding: 7px 6px;
     font-size: 14px;
   }
-  .type-8 .so4 .container .row .class1 .iner {
+  .type-7 .so4 .container .row .class1 .iner {
     padding: 0;
   }
-  .type-8 .so4 .container .row .class2 .iner {
+  .type-7 .so4 .container .row .class2 .iner {
     padding: 0;
     padding-left: 44px;
   }
-  .type-8 .so4 .container .row .class2 .iner .tx-wraper .col .noidung .h2 {
+  .type-7 .so4 .container .row .class2 .iner .tx-wraper .col .noidung .h2 {
     font-size: 19px;
   }
-  .type-8 .so4 .container .row .class2 .iner .tx-wraper .col .noidung p {
+  .type-7 .so4 .container .row .class2 .iner .tx-wraper .col .noidung p {
     font-size: 14px;
   }
-  .type-8 .so4 .container .row .class2 .iner .tx-wraper .col .noidung button {
+  .type-7 .so4 .container .row .class2 .iner .tx-wraper .col .noidung button {
     padding: 7px 6px;
     font-size: 14px;
   }
-  .type-8 .so5 .container .row .lon {
+  .type-7 .so5 .container .row .lon {
     margin-bottom: 20px;
     font-size: 13px;
   }
-  .type-8 .so5 .container .row .lon .lon1 h3 {
+  .type-7 .so5 .container .row .lon .lon1 h3 {
     font-size: 20px;
   }
-  .type-8 .so5 .container .row .lon .lon1 .chucvu {
+  .type-7 .so5 .container .row .lon .lon1 .chucvu {
     font-size: 14px;
   }
-  .type-8 .so5 .container .row .lon .lon1 p {
+  .type-7 .so5 .container .row .lon .lon1 p {
     font-size: 14px;
   }
 }
 @media (min-width: 901px) and (max-width: 1000px) {
-  .type-8 .so3 .container .row .class1 .iner {
+  .type-7 .so3 .container .row .class1 .iner {
     padding: 0;
   }
-  .type-8 .so3 .container .row .class2 .iner {
+  .type-7 .so3 .container .row .class2 .iner {
     padding: 0 18px;
   }
-  .type-8 .so3 .container .row .class2 .iner .tx-wraper .col .noidung .h2 {
+  .type-7 .so3 .container .row .class2 .iner .tx-wraper .col .noidung .h2 {
     font-size: 21px;
   }
-  .type-8 .so3 .container .row .class2 .iner .tx-wraper .col .noidung p {
+  .type-7 .so3 .container .row .class2 .iner .tx-wraper .col .noidung p {
     font-size: 15px;
   }
-  .type-8 .so3 .container .row .class2 .iner .tx-wraper .col .noidung button {
+  .type-7 .so3 .container .row .class2 .iner .tx-wraper .col .noidung button {
     padding: 7px 6px;
     font-size: 15px;
   }
-  .type-8 .so4 .container .row .class1 .iner {
+  .type-7 .so4 .container .row .class1 .iner {
     padding: 0;
   }
-  .type-8 .so4 .container .row .class2 .iner {
+  .type-7 .so4 .container .row .class2 .iner {
     padding: 0;
     padding-left: 44px;
   }
-  .type-8 .so4 .container .row .class2 .iner .tx-wraper .col .noidung .h2 {
+  .type-7 .so4 .container .row .class2 .iner .tx-wraper .col .noidung .h2 {
     font-size: 21px;
   }
-  .type-8 .so4 .container .row .class2 .iner .tx-wraper .col .noidung p {
+  .type-7 .so4 .container .row .class2 .iner .tx-wraper .col .noidung p {
     font-size: 15px;
   }
-  .type-8 .so4 .container .row .class2 .iner .tx-wraper .col .noidung button {
+  .type-7 .so4 .container .row .class2 .iner .tx-wraper .col .noidung button {
     padding: 7px 6px;
     font-size: 15px;
   }
-  .type-8 .so5 .container .row .lon {
+  .type-7 .so5 .container .row .lon {
     margin-bottom: 20px;
     font-size: 13px;
   }
-  .type-8 .so5 .container .row .lon .lon1 h3 {
+  .type-7 .so5 .container .row .lon .lon1 h3 {
     font-size: 23px;
   }
-  .type-8 .so5 .container .row .lon .lon1 .chucvu {
+  .type-7 .so5 .container .row .lon .lon1 .chucvu {
     font-size: 15px;
   }
-  .type-8 .so5 .container .row .lon .lon1 p {
+  .type-7 .so5 .container .row .lon .lon1 p {
     font-size: 15px;
   }
 }
 @media (min-width: 1001px) and (max-width: 1200px) {
-  .type-8 .so4 {
+  .type-7 .so4 {
     background-color: #f0f2f7;
   }
-  .type-8 .so4 .container .row .class1 {
+  .type-7 .so4 .container .row .class1 {
     background-size: cover;
     margin-left: 0;
     padding: 0;
   }
-  .type-8 .so4 .container .row .class1 .iner {
+  .type-7 .so4 .container .row .class1 .iner {
     background-size: cover;
     background-image: url(../image/bg-2.jpg);
     width: 90%;
@@ -211,30 +237,30 @@
     padding: 210px 0;
     margin-left: 87px;
   }
-  .type-8 .so4 .container .row .class2 {
+  .type-7 .so4 .container .row .class2 {
     margin-right: 25px;
     margin-left: -25px;
   }
-  .type-8 .so4 .container .row .class2 .iner {
+  .type-7 .so4 .container .row .class2 .iner {
     background-size: cover;
     width: 100%;
     padding-left: 40px;
     padding-right: 50px;
   }
-  .type-8 .so4 .container .row .class2 .iner .tx-wraper {
+  .type-7 .so4 .container .row .class2 .iner .tx-wraper {
     color: #838897;
   }
-  .type-8 .so4 .container .row .class2 .iner .tx-wraper .col {
+  .type-7 .so4 .container .row .class2 .iner .tx-wraper .col {
     padding: 54px 0;
   }
-  .type-8 .so4 .container .row .class2 .iner .tx-wraper .col .noidung .h2 {
+  .type-7 .so4 .container .row .class2 .iner .tx-wraper .col .noidung .h2 {
     font-size: 30px;
     color: #626570;
   }
-  .type-8 .so4 .container .row .class2 .iner .tx-wraper .col .noidung p {
+  .type-7 .so4 .container .row .class2 .iner .tx-wraper .col .noidung p {
     font-size: 16px;
   }
-  .type-8 .so4 .container .row .class2 .iner .tx-wraper .col .noidung button {
+  .type-7 .so4 .container .row .class2 .iner .tx-wraper .col .noidung button {
     color: #fff;
     background: #d1a17a;
     text-transform: uppercase;
@@ -244,44 +270,44 @@
     opacity: 0.8;
     margin: 10px 0;
   }
-  .type-8 .so4 .container .row .class2 .iner .tx-wraper .col .noidung button:hover {
+  .type-7 .so4 .container .row .class2 .iner .tx-wraper .col .noidung button:hover {
     background: #d1a17ab3;
     border: 1px solid #d1a17ab3;
   }
-  .type-8 .so3 {
+  .type-7 .so3 {
     background-color: #f0f2f7;
   }
-  .type-8 .so3 .container .row .class1 {
+  .type-7 .so3 .container .row .class1 {
     background-size: cover;
     margin-left: -25px;
     padding: 0;
   }
-  .type-8 .so3 .container .row .class1 .iner {
+  .type-7 .so3 .container .row .class1 .iner {
     background-size: cover;
     background-image: url(../image/bg-1.jpg);
     width: 90%;
     height: 100%;
     padding: 210px 0;
   }
-  .type-8 .so3 .container .row .class2 .iner {
+  .type-7 .so3 .container .row .class2 .iner {
     background-size: cover;
     width: 100%;
     padding: 0 8px;
   }
-  .type-8 .so3 .container .row .class2 .iner .tx-wraper {
+  .type-7 .so3 .container .row .class2 .iner .tx-wraper {
     color: #838897;
   }
-  .type-8 .so3 .container .row .class2 .iner .tx-wraper .col {
+  .type-7 .so3 .container .row .class2 .iner .tx-wraper .col {
     padding: 65px 0;
   }
-  .type-8 .so3 .container .row .class2 .iner .tx-wraper .col .noidung .h2 {
+  .type-7 .so3 .container .row .class2 .iner .tx-wraper .col .noidung .h2 {
     font-size: 30px;
     color: #626570;
   }
-  .type-8 .so3 .container .row .class2 .iner .tx-wraper .col .noidung p {
+  .type-7 .so3 .container .row .class2 .iner .tx-wraper .col .noidung p {
     font-size: 16px;
   }
-  .type-8 .so3 .container .row .class2 .iner .tx-wraper .col .noidung button {
+  .type-7 .so3 .container .row .class2 .iner .tx-wraper .col .noidung button {
     color: #fff;
     background: #d1a17a;
     text-transform: uppercase;
@@ -291,7 +317,7 @@
     opacity: 0.8;
     margin: 10px 0;
   }
-  .type-8 .so3 .container .row .class2 .iner .tx-wraper .col .noidung button:hover {
+  .type-7 .so3 .container .row .class2 .iner .tx-wraper .col .noidung button:hover {
     background: #d1a17ab3;
     border: 1px solid #d1a17ab3;
   }
