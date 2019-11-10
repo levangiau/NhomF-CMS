@@ -1,0 +1,44 @@
+.type-3 .mg {
+  margin: 0px 0px 0px 0px;
+}
+.type-3 .bg {
+  background: url(../images/3-1.png) no-repeat;
+}
+.type-3 .bg .tieude {
+  color: #ffffff;
+}
+.type-3 .bg .tieude h3 {
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+}
+.type-3 .bg .noidung p {
+  font-size: 14px;
+  color: #ffffff;
+  line-height: 1.8em;
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+}
+.type-3 .bg .noidung a.btn-border {
+  border: solid 2px #ffffff;
+  background: none;
+  border-radius: 30px;
+  padding: 7px 30px 7px 30px;
+  color: #fff;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+.type-3 .bg .noidung a.btn-border:hover {
+  transition: 0.5s all;
+  background: #ffffff;
+  color: black;
+}
+.type-3 .bg .bg2 {
+  padding: 60px;
+  background-color: rgba(98,100,112,0.7);
+}
+.type-3 .bg .bg2:first-child {
+  background-color: rgba(209,161,121,0.7);
+}
+.type-3 .bg .bg2:last-child {
+  background-color: rgba(92,103,77,0.7);
+}
