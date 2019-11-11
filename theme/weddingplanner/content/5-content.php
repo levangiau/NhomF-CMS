@@ -62,8 +62,8 @@ $url_path = str_replace('\\', '/', $url_path);
 			</div>
 		</div>
 	</div>
-	<div class="show_img">
-		<img class="img_none" src="<?php bloginfo('template_directory')?>/images/5-1.png">
+	<!-- <div class="show_img">
+		<img class="img_none" src="<?php //bloginfo('template_directory')?>/images/5-1.png">
 		<span class="remove"><i class="fa fa-times" aria-hidden="true"></i></span>
-	</div>
+	</div> -->
 </div>

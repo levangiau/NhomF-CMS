@@ -20,16 +20,8 @@ $url_path = str_replace('\\', '/', $url_path);
 							<div class="s_space"></div>
 							<div class="text">
 								<h2 class="h2"><?php the_title()?></h2>
-									<?php $args=array(
-										'title'=>'Serena laurie',
-										'post_status' => 'publish'
-									);
-									$data=get_posts($args);
-									foreach($data as $post){
-										setup_postdata($post);
-
-									} 
-									?>
+								<h4 class="h4">Wedding Planner</h4>
+									
 									
 								<div class="s2_space"></div>
 							</div>
@@ -68,18 +60,7 @@ $url_path = str_replace('\\', '/', $url_path);
 								<h4>Full Wedding Management</h4>
 								<p>
 									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	
-									<?php $args=array(
-										'title'=>'Serena laurie',
-										'post_status' => 'publish'
-									);
-									$data=get_posts($args);
-									foreach($data as $post){
-										setup_postdata($post);
-										the_title();
-										the_content();
-
-									}
-									?>
+									
 								</p>
 							</div>
 						</div>
