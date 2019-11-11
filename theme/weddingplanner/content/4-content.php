@@ -59,7 +59,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                 <div class=" col-lg-3 col-md-4 col-sm-6 col-xs-12 content1">
                                     <div class="m4-limit">
                                         <div class="m4-limit-thumbnail">
-                                            <a href="#" Tea" class="has-border">
+                                            <a href="#" class="has-border">
                                             <img src="<?php bloginfo('template_directory')?>/images/4-anh3.jpg" alt="reponsive-img"  class="size-full"> </a>
                                             </div>
                                             <h4 class="m4-limit-services-title">
@@ -75,7 +75,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                     <div class=" col-lg-3 col-md-4 col-sm-6 col-xs-12 content1">
                                         <div class="m4-limit">
                                             <div class="m4-limit-thumbnail">
-                                                <a href="#" Tea" class="has-border">
+                                                <a href="#" class="has-border">
                                                 <img src="<?php bloginfo('template_directory')?>/images/4-anh4.jpg" alt="reponsive-img" class="size-full">
                                                 </a>
                                             </div>

@@ -19,7 +19,7 @@ $url_path = str_replace('\\', '/', $url_path);
 							</div>
 							<div class="s_space"></div>
 							<div class="text">
-								<h2 class="h2"><?php the_title()?></h2>
+								<h2 class="h2">Serena laurie</h2>
 								<h4 class="h4">Wedding Planner</h4>
 									
 									
@@ -36,7 +36,6 @@ $url_path = str_replace('\\', '/', $url_path);
 								<h4>Initial Consultation</h4>
 								<p>
 									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	 
-									<?php the_excerpt();?>
 								</p>
 							</div>
 						</div>
@@ -48,7 +47,6 @@ $url_path = str_replace('\\', '/', $url_path);
 								<h4>Wedding Venues</h4>
 								<p>
 									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	
-									<?php the_excerpt();?>
 								</p>
 							</div>
 						</div>

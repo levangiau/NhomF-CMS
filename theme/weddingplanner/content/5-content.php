@@ -25,45 +25,46 @@ $url_path = str_replace('\\', '/', $url_path);
 	<div class="swiper-container">
 		<div class="swiper-wrapper">
 			<div class="swiper-slide">
-				<img id="my_image" src="<?php bloginfo('template_directory')?>/images/5-1.png">
+				<a href="#"><img id="my_image"  src="<?php bloginfo('template_directory')?>/images/5-1.png" ></a>
 				<span class="overlay-v">
-					<i></i>
+					<a href="<?php bloginfo('template_directory')?>/images/5-1.png" rel="lightbox[roadtrip]"><i></i></a>
 				</span>
 			</div>
 			<div class="swiper-slide">
-				<img id="my_image" src="<?php bloginfo('template_directory')?>/images/5-2.png">
+				<a href="#"><img id="my_image"  src="<?php bloginfo('template_directory')?>/images/5-2.png" ></a>
 				<span class="overlay-v">
-					<i></i>
+					
+					<a href="<?php bloginfo('template_directory')?>/images/5-2.png" rel="lightbox[roadtrip]"><i></i></a>
 				</span>
 			</div>
 			<div class="swiper-slide">
-				<img id="my_image" src="<?php bloginfo('template_directory')?>/images/5-3.png">
+				<a href="#"><img id="my_image"  src="<?php bloginfo('template_directory')?>/images/5-3.png" ></a>
 				<span class="overlay-v">
-					<i></i>
+					
+					<a href="<?php bloginfo('template_directory')?>/images/5-3.png" rel="lightbox[roadtrip]"><i></i></a>
 				</span>
 			</div>
 			<div class="swiper-slide">
-				<img id="my_image" src="<?php bloginfo('template_directory')?>/images/5-4.png">
+				<a href="#"><img id="my_image"  src="<?php bloginfo('template_directory')?>/images/5-4.png" ></a>
 				<span class="overlay-v">
-					<i></i>
+					
+					<a href="<?php bloginfo('template_directory')?>/images/5-4.png" rel="lightbox[roadtrip]"><i></i></a>
 				</span>
 			</div>
 			<div class="swiper-slide">
-				<img id="my_image" src="<?php bloginfo('template_directory')?>/images/5-5.png">
+				<a href="#"><img id="my_image"  src="<?php bloginfo('template_directory')?>/images/5-5.png" ></a>
 				<span class="overlay-v">
-					<i></i>
+					
+					<a href="<?php bloginfo('template_directory')?>/images/5-5.png" rel="lightbox[roadtrip]"><i></i></a>
 				</span>
 			</div>
 			<div class="swiper-slide">
-				<img id="my_image" src="<?php bloginfo('template_directory')?>/images/5-6.png">
+				<a href="#"><img id="my_image"  src="<?php bloginfo('template_directory')?>/images/5-6.png" ></a>
 				<span class="overlay-v">
-					<i></i>
+					
+					<a href="<?php bloginfo('template_directory')?>/images/5-6.png" rel="lightbox[roadtrip]"><i></i></a>
 				</span>
 			</div>
 		</div>
 	</div>
-	<!-- <div class="show_img">
-		<img class="img_none" src="<?php //bloginfo('template_directory')?>/images/5-1.png">
-		<span class="remove"><i class="fa fa-times" aria-hidden="true"></i></span>
-	</div> -->
 </div>
